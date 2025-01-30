@@ -1,7 +1,7 @@
 ## 🌟 SQL Case Studies: 8 Week SQL Challenge 🌟
 
 Welcome to my repository containing solutions to the popular **8 Week SQL Challenge**
-by [Danny Ma] [https://8weeksqlchallenge.com/]! 
+by Danny Ma. [https://8weeksqlchallenge.com/]! 
 🚀 This challenge features 8 engaging case studies designed to tackle real-world business scenarios using SQL. 💻
 
 ---
